@@ -15,7 +15,6 @@
 
 */
 
-
 #include "calculadora.h"
 #include <iostream>
 // #include <cstdlib>
