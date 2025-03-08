@@ -25,7 +25,6 @@
 *.Plo
 
 # Diretórios de build
-/build/
 /debug/
 /release/
 /bin/
